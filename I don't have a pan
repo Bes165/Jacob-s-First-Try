@@ -1,0 +1,18 @@
+//I wanna cry.cpp by Bes165
+#include<windows.h>
+#include<cstdlib>
+#include<iostream>
+
+using namespace std;
+
+int main(){
+  for(int i = 1; i > 0; i++){
+    cout << "Why you have a pen??" << endl;
+    Sleep(200);
+    cout << "i dont't wanna a pen!!" << endl;
+  }
+  cout << "Yout Silly Boy!!" ;
+  
+  system("pause");
+  return 0;
+}
